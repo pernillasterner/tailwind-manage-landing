@@ -1,0 +1,1 @@
+![Image of Manage Landing Page](screenshot.png)
